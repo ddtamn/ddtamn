@@ -1,8 +1,8 @@
-Hi 👋 My name is diditamin.m
-============================
+<h1 align="center">Hi 👋, I'm ddtamn</h1>
+<p align="center">============================</p>
 
-Self Web Developer
-------------------
+<h3 align="center">Self Web Developer</h3>
+<p align="center">------------------</p>
 
 I've been learning coding for 3 years, after switching operators, I started with HTML, CSS, & JavaScript, but now I'm very interested in becoming a fullstack web developer
 
@@ -11,6 +11,13 @@ I've been learning coding for 3 years, after switching operators, I started with
 * ✉️  You can contact me at [diditamin.m@gmail.com](mailto:diditamin.m@gmail.com)
 * 🧠  I'm learning SvelteKit, and Laravel
 * ⚡  In my daily life, besides learning programming languages, I also become a freelance wedding videographer, to fulfill my daily needs
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddtamn&label=Profile%20views&color=0e75b6&style=flat" alt="ddtamn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddtamn" alt="ddtamn" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ddtamn" target="blank"><img src="https://img.shields.io/twitter/follow/ddtamn?logo=twitter&style=for-the-badge" alt="ddtamn" /></a> </p>
 
 ### Skills
 
