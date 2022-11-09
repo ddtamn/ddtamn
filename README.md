@@ -49,20 +49,8 @@ I've been learning coding for 3 years, after switching operators, I started with
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ddtamn"><img src="https://github-readme-stats.vercel.app/api?username=ddtamn&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ddtamn's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddtamn&show_icons=true&locale=en&layout=compact" alt="ddtamn" /></p>
 
-<a href="http://www.github.com/ddtamn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ddtamn&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddtamn&show_icons=true&locale=en" alt="ddtamn" /></p>
 
-<a href="http://www.github.com/ddtamn"><img src="https://activity-graph.herokuapp.com/graph?username=ddtamn&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="http://www.github.com/ddtamn"><img src="https://github-readme-stats.vercel.app/api?username=ddtamn&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ddtamn's GitHub stats" /></a>
-
-<a href="http://www.github.com/ddtamn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ddtamn&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ddtamn"><img src="https://activity-graph.herokuapp.com/graph?username=ddtamn&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ddtamn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddtamn&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ddtamn/ddtamn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ddtamn&repo=ddtamn&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ddtamn/kit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ddtamn&repo=kit&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddtamn&" alt="ddtamn" /></p>
