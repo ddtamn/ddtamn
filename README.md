@@ -55,3 +55,5 @@ I've been learning coding for 3 years, after switching operators, I started with
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddtamn&show_icons=true&locale=en" alt="ddtamn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddtamn&" alt="ddtamn" /></p>
+
+<a href="https://app.daily.dev/selfdev"><img src="https://api.daily.dev/devcards/v2/8HJKeL5zdrF9uStrjCS32.png?r=9nw&type=default" width="356" alt="self-dev's Dev Card"/></a>
