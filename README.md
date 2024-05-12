@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/ddtamn/ddtamn">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddtamn&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddtamn&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://app.daily.dev/selfdev"><img src="https://api.daily.dev/devcards/v2/8HJKeL5zdrF9uStrjCS32.png?r=9nw&type=default" width="356" alt="self-dev's Dev Card"/></a>
