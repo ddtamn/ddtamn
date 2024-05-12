@@ -8,16 +8,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddtamn&repo=grapesjs-svelte&show_icons=true&theme=transparent" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ddtamn/ddtamn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddtamn&repo=ddtamn&show_icons=true&theme=transparent" />
 </a>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+### Stats
+
+<a href="https://github.com/ddtamn/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ddtamn&show_icons=true&theme=transparent" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/ddtamn/ddtamn">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddtamn&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://app.daily.dev/selfdev"><img src="https://api.daily.dev/devcards/v2/8HJKeL5zdrF9uStrjCS32.png?r=9nw&type=default" width="356" alt="self-dev's Dev Card"/></a>
