@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddtamn&label=Profile%20views&color=0e75b6&style=flat" alt="ddtamn" /> </p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ddtamn/grapesjs-svelte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddtamn&repo=grapesjs-svelte&show_icons=true&theme=transparent" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
